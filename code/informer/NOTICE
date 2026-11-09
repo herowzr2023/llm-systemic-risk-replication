@@ -1,0 +1,11 @@
+Informer model code derives from zhouhaoyi/Informer2020, licensed under Apache-2.0.
+Upstream: https://github.com/zhouhaoyi/Informer2020
+Project modifications include the direct-horizon bank-data loader and experiment adaptations.
+The standalone training entry is ../train_informer.py.
+
+Paper citation:
+Zhou, H., Zhang, S., Peng, J., Zhang, S., Li, J., Xiong, H., and Zhang, W. (2021).
+Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting.
+Proceedings of the AAAI Conference on Artificial Intelligence, 35(12), 11106-11115.
+DOI: 10.1609/aaai.v35i12.17325
+Paper: https://doi.org/10.1609/aaai.v35i12.17325

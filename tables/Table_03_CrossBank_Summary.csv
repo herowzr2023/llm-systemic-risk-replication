@@ -1,0 +1,5 @@
+﻿Horizon,Loss,Improved,DM-significant / improved,DM-significant / worse,Median / reduction %,95% interval %
+1,MSE,14/14,14/14,0/14,73.78,67.51–77.16
+1,MAE,14/14,13/14,0/14,45.44,41.52–48.88
+5,MSE,12/14,11/14,2/14,48.81,39.06–53.60
+5,MAE,11/14,9/14,2/14,23.00,19.71–25.52

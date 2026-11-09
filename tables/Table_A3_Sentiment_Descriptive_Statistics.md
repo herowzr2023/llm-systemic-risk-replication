@@ -1,0 +1,6 @@
+# Table A3. Descriptive Statistics of Sentiment Indicators
+
+| Index | ICBC Mean | ICBC Std. dev. | ICBC Min | ICBC Max | Banking sector Mean | Banking sector Std. dev. | Banking sector Min | Banking sector Max |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Sentiment direction | 0.07 | 0.66 | -2.56 | 3.43 | 0.08 | 0.55 | -3.14 | 2.20 |
+| Attention-based intensity | 46.59 | 54.99 | 1.00 | 638.00 | 379.35 | 374.01 | 1.00 | 3136.00 |

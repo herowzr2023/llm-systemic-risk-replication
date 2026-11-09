@@ -1,0 +1,561 @@
+﻿bank_code,bank_name,horizon,group,seed
+000001,Ping An Bank,1,1,956094188
+000001,Ping An Bank,1,2,1073739504
+000001,Ping An Bank,1,3,1250823990
+000001,Ping An Bank,1,4,1322727464
+000001,Ping An Bank,1,5,1747501035
+000001,Ping An Bank,1,6,1762154146
+000001,Ping An Bank,1,7,2882860912
+000001,Ping An Bank,1,8,3247679765
+000001,Ping An Bank,1,9,3775554338
+000001,Ping An Bank,1,10,4206146498
+000001,Ping An Bank,1,11,1776750367
+000001,Ping An Bank,1,12,3703713861
+000001,Ping An Bank,1,13,3099142635
+000001,Ping An Bank,1,14,620423708
+000001,Ping An Bank,1,15,17812198
+000001,Ping An Bank,1,16,628873784
+000001,Ping An Bank,1,17,1173500266
+000001,Ping An Bank,1,18,1483121882
+000001,Ping An Bank,1,19,2999939032
+000001,Ping An Bank,1,20,2629416327
+000001,Ping An Bank,5,1,2186576414
+000001,Ping An Bank,5,2,2969027060
+000001,Ping An Bank,5,3,528643171
+000001,Ping An Bank,5,4,1521250873
+000001,Ping An Bank,5,5,1592984551
+000001,Ping An Bank,5,6,3154605009
+000001,Ping An Bank,5,7,4105030636
+000001,Ping An Bank,5,8,1451597902
+000001,Ping An Bank,5,9,675883896
+000001,Ping An Bank,5,10,1713675208
+000001,Ping An Bank,5,11,3730564145
+000001,Ping An Bank,5,12,3486594167
+000001,Ping An Bank,5,13,2933095639
+000001,Ping An Bank,5,14,44374797
+000001,Ping An Bank,5,15,2856610286
+000001,Ping An Bank,5,16,2069559389
+000001,Ping An Bank,5,17,3300282620
+000001,Ping An Bank,5,18,929386803
+000001,Ping An Bank,5,19,561414974
+000001,Ping An Bank,5,20,3870323306
+002142,Bank of Ningbo,1,1,177655252
+002142,Bank of Ningbo,1,2,484602868
+002142,Bank of Ningbo,1,3,1169184526
+002142,Bank of Ningbo,1,4,1577312939
+002142,Bank of Ningbo,1,5,1578780010
+002142,Bank of Ningbo,1,6,1819852378
+002142,Bank of Ningbo,1,7,2040086079
+002142,Bank of Ningbo,1,8,2782114224
+002142,Bank of Ningbo,1,9,2950357057
+002142,Bank of Ningbo,1,10,2999033767
+002142,Bank of Ningbo,1,11,3730117453
+002142,Bank of Ningbo,1,12,2875850521
+002142,Bank of Ningbo,1,13,3813317031
+002142,Bank of Ningbo,1,14,4071246286
+002142,Bank of Ningbo,1,15,464805579
+002142,Bank of Ningbo,1,16,2738829036
+002142,Bank of Ningbo,1,17,1295859600
+002142,Bank of Ningbo,1,18,517529497
+002142,Bank of Ningbo,1,19,186330685
+002142,Bank of Ningbo,1,20,3036142790
+002142,Bank of Ningbo,5,1,1198749477
+002142,Bank of Ningbo,5,2,3141039811
+002142,Bank of Ningbo,5,3,2768809911
+002142,Bank of Ningbo,5,4,1653949760
+002142,Bank of Ningbo,5,5,997511961
+002142,Bank of Ningbo,5,6,579660463
+002142,Bank of Ningbo,5,7,2058876462
+002142,Bank of Ningbo,5,8,856682703
+002142,Bank of Ningbo,5,9,3495252063
+002142,Bank of Ningbo,5,10,3809719531
+002142,Bank of Ningbo,5,11,2290012749
+002142,Bank of Ningbo,5,12,169237668
+002142,Bank of Ningbo,5,13,2903375885
+002142,Bank of Ningbo,5,14,1621647757
+002142,Bank of Ningbo,5,15,3272871355
+002142,Bank of Ningbo,5,16,1349157380
+002142,Bank of Ningbo,5,17,1027416914
+002142,Bank of Ningbo,5,18,519534121
+002142,Bank of Ningbo,5,19,2726139278
+002142,Bank of Ningbo,5,20,3176121912
+600000,Shanghai Pudong Development Bank,1,1,1030501922
+600000,Shanghai Pudong Development Bank,1,2,1084682007
+600000,Shanghai Pudong Development Bank,1,3,1139159032
+600000,Shanghai Pudong Development Bank,1,4,1368057522
+600000,Shanghai Pudong Development Bank,1,5,1372329176
+600000,Shanghai Pudong Development Bank,1,6,1549986692
+600000,Shanghai Pudong Development Bank,1,7,1684891023
+600000,Shanghai Pudong Development Bank,1,8,2656273439
+600000,Shanghai Pudong Development Bank,1,9,3124959854
+600000,Shanghai Pudong Development Bank,1,10,3468995554
+600000,Shanghai Pudong Development Bank,1,11,3471914135
+600000,Shanghai Pudong Development Bank,1,12,439066825
+600000,Shanghai Pudong Development Bank,1,13,48270802
+600000,Shanghai Pudong Development Bank,1,14,859772943
+600000,Shanghai Pudong Development Bank,1,15,1161080810
+600000,Shanghai Pudong Development Bank,1,16,422778818
+600000,Shanghai Pudong Development Bank,1,17,3667589727
+600000,Shanghai Pudong Development Bank,1,18,584625620
+600000,Shanghai Pudong Development Bank,1,19,3873726076
+600000,Shanghai Pudong Development Bank,1,20,2662604378
+600000,Shanghai Pudong Development Bank,5,1,3377282654
+600000,Shanghai Pudong Development Bank,5,2,1067264699
+600000,Shanghai Pudong Development Bank,5,3,589266328
+600000,Shanghai Pudong Development Bank,5,4,1002677404
+600000,Shanghai Pudong Development Bank,5,5,2514499708
+600000,Shanghai Pudong Development Bank,5,6,751963268
+600000,Shanghai Pudong Development Bank,5,7,135139321
+600000,Shanghai Pudong Development Bank,5,8,1182059270
+600000,Shanghai Pudong Development Bank,5,9,2586165621
+600000,Shanghai Pudong Development Bank,5,10,1431803308
+600000,Shanghai Pudong Development Bank,5,11,2020388442
+600000,Shanghai Pudong Development Bank,5,12,329148656
+600000,Shanghai Pudong Development Bank,5,13,1880089673
+600000,Shanghai Pudong Development Bank,5,14,3104280702
+600000,Shanghai Pudong Development Bank,5,15,811264925
+600000,Shanghai Pudong Development Bank,5,16,1284508764
+600000,Shanghai Pudong Development Bank,5,17,2729642054
+600000,Shanghai Pudong Development Bank,5,18,2344546057
+600000,Shanghai Pudong Development Bank,5,19,1893386141
+600000,Shanghai Pudong Development Bank,5,20,3657015769
+600015,Huaxia Bank,1,1,427886921
+600015,Huaxia Bank,1,2,726045037
+600015,Huaxia Bank,1,3,955465411
+600015,Huaxia Bank,1,4,1579043122
+600015,Huaxia Bank,1,5,1852045675
+600015,Huaxia Bank,1,6,2748163808
+600015,Huaxia Bank,1,7,2958669872
+600015,Huaxia Bank,1,8,2971004838
+600015,Huaxia Bank,1,9,3598600950
+600015,Huaxia Bank,1,10,3838039086
+600015,Huaxia Bank,1,11,1231024622
+600015,Huaxia Bank,1,12,2654369575
+600015,Huaxia Bank,1,13,1450372701
+600015,Huaxia Bank,1,14,2112883892
+600015,Huaxia Bank,1,15,355138667
+600015,Huaxia Bank,1,16,146074040
+600015,Huaxia Bank,1,17,3082737050
+600015,Huaxia Bank,1,18,3140183543
+600015,Huaxia Bank,1,19,1658246270
+600015,Huaxia Bank,1,20,3432587264
+600015,Huaxia Bank,5,1,2011063883
+600015,Huaxia Bank,5,2,3746104914
+600015,Huaxia Bank,5,3,3959550136
+600015,Huaxia Bank,5,4,1591689098
+600015,Huaxia Bank,5,5,3394435762
+600015,Huaxia Bank,5,6,3234337371
+600015,Huaxia Bank,5,7,2141516073
+600015,Huaxia Bank,5,8,1988561311
+600015,Huaxia Bank,5,9,3479008687
+600015,Huaxia Bank,5,10,3399908971
+600015,Huaxia Bank,5,11,3193317843
+600015,Huaxia Bank,5,12,331395101
+600015,Huaxia Bank,5,13,3390876055
+600015,Huaxia Bank,5,14,2837314260
+600015,Huaxia Bank,5,15,1025258776
+600015,Huaxia Bank,5,16,736159395
+600015,Huaxia Bank,5,17,291137588
+600015,Huaxia Bank,5,18,899319168
+600015,Huaxia Bank,5,19,905117825
+600015,Huaxia Bank,5,20,259164796
+600016,China Minsheng Bank,1,1,61309555
+600016,China Minsheng Bank,1,2,111511372
+600016,China Minsheng Bank,1,3,1191147984
+600016,China Minsheng Bank,1,4,1301420946
+600016,China Minsheng Bank,1,5,1333859279
+600016,China Minsheng Bank,1,6,1753821940
+600016,China Minsheng Bank,1,7,1919353771
+600016,China Minsheng Bank,1,8,1925701955
+600016,China Minsheng Bank,1,9,3759487115
+600016,China Minsheng Bank,1,10,3913328172
+600016,China Minsheng Bank,1,11,123210398
+600016,China Minsheng Bank,1,12,1593271484
+600016,China Minsheng Bank,1,13,3844065918
+600016,China Minsheng Bank,1,14,1792475907
+600016,China Minsheng Bank,1,15,2397630437
+600016,China Minsheng Bank,1,16,2140575535
+600016,China Minsheng Bank,1,17,4278133672
+600016,China Minsheng Bank,1,18,2169319209
+600016,China Minsheng Bank,1,19,2177832517
+600016,China Minsheng Bank,1,20,3104962953
+600016,China Minsheng Bank,5,1,1996442228
+600016,China Minsheng Bank,5,2,3810102107
+600016,China Minsheng Bank,5,3,580792731
+600016,China Minsheng Bank,5,4,1363417936
+600016,China Minsheng Bank,5,5,2150797870
+600016,China Minsheng Bank,5,6,2039919877
+600016,China Minsheng Bank,5,7,1845902500
+600016,China Minsheng Bank,5,8,2148832295
+600016,China Minsheng Bank,5,9,3360225784
+600016,China Minsheng Bank,5,10,4107615655
+600016,China Minsheng Bank,5,11,2602766810
+600016,China Minsheng Bank,5,12,716481730
+600016,China Minsheng Bank,5,13,1648795939
+600016,China Minsheng Bank,5,14,1317539650
+600016,China Minsheng Bank,5,15,3817288394
+600016,China Minsheng Bank,5,16,2900017819
+600016,China Minsheng Bank,5,17,1502495392
+600016,China Minsheng Bank,5,18,1231297861
+600016,China Minsheng Bank,5,19,1285794903
+600016,China Minsheng Bank,5,20,2881067262
+600036,China Merchants Bank,1,1,221894137
+600036,China Merchants Bank,1,2,236911038
+600036,China Merchants Bank,1,3,998089775
+600036,China Merchants Bank,1,4,1285092819
+600036,China Merchants Bank,1,5,1437783190
+600036,China Merchants Bank,1,6,1863053662
+600036,China Merchants Bank,1,7,1974914436
+600036,China Merchants Bank,1,8,1999520075
+600036,China Merchants Bank,1,9,2867439182
+600036,China Merchants Bank,1,10,3957690854
+600036,China Merchants Bank,1,11,3752941992
+600036,China Merchants Bank,1,12,926498257
+600036,China Merchants Bank,1,13,2729554244
+600036,China Merchants Bank,1,14,3664571741
+600036,China Merchants Bank,1,15,2822870986
+600036,China Merchants Bank,1,16,87278876
+600036,China Merchants Bank,1,17,349182708
+600036,China Merchants Bank,1,18,2039748207
+600036,China Merchants Bank,1,19,521565368
+600036,China Merchants Bank,1,20,1293882419
+600036,China Merchants Bank,5,1,3061894637
+600036,China Merchants Bank,5,2,4104449005
+600036,China Merchants Bank,5,3,3791726283
+600036,China Merchants Bank,5,4,3088801268
+600036,China Merchants Bank,5,5,1297650146
+600036,China Merchants Bank,5,6,1435197409
+600036,China Merchants Bank,5,7,4199572375
+600036,China Merchants Bank,5,8,3105058609
+600036,China Merchants Bank,5,9,1679069002
+600036,China Merchants Bank,5,10,1639820585
+600036,China Merchants Bank,5,11,3036171426
+600036,China Merchants Bank,5,12,1059140484
+600036,China Merchants Bank,5,13,3635093218
+600036,China Merchants Bank,5,14,1998696861
+600036,China Merchants Bank,5,15,2512921267
+600036,China Merchants Bank,5,16,740087765
+600036,China Merchants Bank,5,17,2609891926
+600036,China Merchants Bank,5,18,4243441737
+600036,China Merchants Bank,5,19,2244108462
+600036,China Merchants Bank,5,20,4069900537
+601009,Bank of Nanjing,1,1,232633329
+601009,Bank of Nanjing,1,2,363071384
+601009,Bank of Nanjing,1,3,670531131
+601009,Bank of Nanjing,1,4,1270719596
+601009,Bank of Nanjing,1,5,1947567270
+601009,Bank of Nanjing,1,6,2325282639
+601009,Bank of Nanjing,1,7,2352801761
+601009,Bank of Nanjing,1,8,2754612456
+601009,Bank of Nanjing,1,9,2869049477
+601009,Bank of Nanjing,1,10,2905107450
+601009,Bank of Nanjing,1,11,3431528617
+601009,Bank of Nanjing,1,12,1958392603
+601009,Bank of Nanjing,1,13,4190894329
+601009,Bank of Nanjing,1,14,3911783279
+601009,Bank of Nanjing,1,15,204911364
+601009,Bank of Nanjing,1,16,3280204959
+601009,Bank of Nanjing,1,17,2830415868
+601009,Bank of Nanjing,1,18,1336745522
+601009,Bank of Nanjing,1,19,2656415824
+601009,Bank of Nanjing,1,20,3294309945
+601009,Bank of Nanjing,5,1,3357960140
+601009,Bank of Nanjing,5,2,3896358230
+601009,Bank of Nanjing,5,3,715503114
+601009,Bank of Nanjing,5,4,2199280332
+601009,Bank of Nanjing,5,5,2802012810
+601009,Bank of Nanjing,5,6,1052630583
+601009,Bank of Nanjing,5,7,3804919524
+601009,Bank of Nanjing,5,8,2885318028
+601009,Bank of Nanjing,5,9,1777076321
+601009,Bank of Nanjing,5,10,75194867
+601009,Bank of Nanjing,5,11,1013506014
+601009,Bank of Nanjing,5,12,2161525426
+601009,Bank of Nanjing,5,13,2224172994
+601009,Bank of Nanjing,5,14,843120067
+601009,Bank of Nanjing,5,15,83686515
+601009,Bank of Nanjing,5,16,2641512493
+601009,Bank of Nanjing,5,17,2780393282
+601009,Bank of Nanjing,5,18,1478947868
+601009,Bank of Nanjing,5,19,4069979649
+601009,Bank of Nanjing,5,20,3299634811
+601166,Industrial Bank,1,1,144930224
+601166,Industrial Bank,1,2,286472133
+601166,Industrial Bank,1,3,415693991
+601166,Industrial Bank,1,4,1231461875
+601166,Industrial Bank,1,5,1348713127
+601166,Industrial Bank,1,6,1525888136
+601166,Industrial Bank,1,7,1541046919
+601166,Industrial Bank,1,8,3312186943
+601166,Industrial Bank,1,9,4050870927
+601166,Industrial Bank,1,10,4153243021
+601166,Industrial Bank,1,11,3552167279
+601166,Industrial Bank,1,12,2050748127
+601166,Industrial Bank,1,13,4289598752
+601166,Industrial Bank,1,14,1396549394
+601166,Industrial Bank,1,15,4166437955
+601166,Industrial Bank,1,16,3404159186
+601166,Industrial Bank,1,17,3995945744
+601166,Industrial Bank,1,18,2699522392
+601166,Industrial Bank,1,19,996687503
+601166,Industrial Bank,1,20,3266413581
+601166,Industrial Bank,5,1,2090027163
+601166,Industrial Bank,5,2,2104080487
+601166,Industrial Bank,5,3,2439821324
+601166,Industrial Bank,5,4,4162802104
+601166,Industrial Bank,5,5,2268031345
+601166,Industrial Bank,5,6,12400880
+601166,Industrial Bank,5,7,1453048638
+601166,Industrial Bank,5,8,1292927400
+601166,Industrial Bank,5,9,3879575254
+601166,Industrial Bank,5,10,174732922
+601166,Industrial Bank,5,11,3834473381
+601166,Industrial Bank,5,12,2065602881
+601166,Industrial Bank,5,13,3618332276
+601166,Industrial Bank,5,14,1053266025
+601166,Industrial Bank,5,15,1067649297
+601166,Industrial Bank,5,16,3259016434
+601166,Industrial Bank,5,17,2532781531
+601166,Industrial Bank,5,18,2225537219
+601166,Industrial Bank,5,19,2345260297
+601166,Industrial Bank,5,20,658273044
+601169,Bank of Beijing,1,1,107397749
+601169,Bank of Beijing,1,2,650464735
+601169,Bank of Beijing,1,3,1162057469
+601169,Bank of Beijing,1,4,1477566687
+601169,Bank of Beijing,1,5,2091681957
+601169,Bank of Beijing,1,6,2782225193
+601169,Bank of Beijing,1,7,3127704837
+601169,Bank of Beijing,1,8,3638737489
+601169,Bank of Beijing,1,9,3717605887
+601169,Bank of Beijing,1,10,4238176845
+601169,Bank of Beijing,1,11,1263119643
+601169,Bank of Beijing,1,12,4131032891
+601169,Bank of Beijing,1,13,422076255
+601169,Bank of Beijing,1,14,3400419745
+601169,Bank of Beijing,1,15,3092835758
+601169,Bank of Beijing,1,16,2466120395
+601169,Bank of Beijing,1,17,287624296
+601169,Bank of Beijing,1,18,2439598123
+601169,Bank of Beijing,1,19,4120302726
+601169,Bank of Beijing,1,20,3371376803
+601169,Bank of Beijing,5,1,3335791794
+601169,Bank of Beijing,5,2,2616941058
+601169,Bank of Beijing,5,3,1913364659
+601169,Bank of Beijing,5,4,2861492117
+601169,Bank of Beijing,5,5,739859321
+601169,Bank of Beijing,5,6,10900243
+601169,Bank of Beijing,5,7,2775904668
+601169,Bank of Beijing,5,8,3753286706
+601169,Bank of Beijing,5,9,1827257179
+601169,Bank of Beijing,5,10,2780876984
+601169,Bank of Beijing,5,11,514171862
+601169,Bank of Beijing,5,12,336425040
+601169,Bank of Beijing,5,13,1689524334
+601169,Bank of Beijing,5,14,1776268566
+601169,Bank of Beijing,5,15,3108255649
+601169,Bank of Beijing,5,16,962832113
+601169,Bank of Beijing,5,17,2398024404
+601169,Bank of Beijing,5,18,2432192573
+601169,Bank of Beijing,5,19,4120925070
+601169,Bank of Beijing,5,20,200555658
+601328,Bank of Communications,1,1,128566836
+601328,Bank of Communications,1,2,1175959104
+601328,Bank of Communications,1,3,1684618285
+601328,Bank of Communications,1,4,2196106269
+601328,Bank of Communications,1,5,2197538490
+601328,Bank of Communications,1,6,2663186257
+601328,Bank of Communications,1,7,3473748038
+601328,Bank of Communications,1,8,3589849737
+601328,Bank of Communications,1,9,3645305338
+601328,Bank of Communications,1,10,3913077608
+601328,Bank of Communications,1,11,935137747
+601328,Bank of Communications,1,12,1689208242
+601328,Bank of Communications,1,13,3079156011
+601328,Bank of Communications,1,14,655469372
+601328,Bank of Communications,1,15,582633872
+601328,Bank of Communications,1,16,4226567472
+601328,Bank of Communications,1,17,211713165
+601328,Bank of Communications,1,18,3257167964
+601328,Bank of Communications,1,19,3682864620
+601328,Bank of Communications,1,20,2543865373
+601328,Bank of Communications,5,1,2623311307
+601328,Bank of Communications,5,2,3956103331
+601328,Bank of Communications,5,3,2458491896
+601328,Bank of Communications,5,4,2521992924
+601328,Bank of Communications,5,5,176011371
+601328,Bank of Communications,5,6,504290130
+601328,Bank of Communications,5,7,4075144741
+601328,Bank of Communications,5,8,1678091666
+601328,Bank of Communications,5,9,1161618304
+601328,Bank of Communications,5,10,3603125187
+601328,Bank of Communications,5,11,377771345
+601328,Bank of Communications,5,12,2686947648
+601328,Bank of Communications,5,13,781906911
+601328,Bank of Communications,5,14,3484088108
+601328,Bank of Communications,5,15,3692270375
+601328,Bank of Communications,5,16,3319298541
+601328,Bank of Communications,5,17,2172455850
+601328,Bank of Communications,5,18,4206093243
+601328,Bank of Communications,5,19,809883523
+601328,Bank of Communications,5,20,3599885060
+601398,Industrial and Commercial Bank of China,1,1,91041403
+601398,Industrial and Commercial Bank of China,1,2,320331986
+601398,Industrial and Commercial Bank of China,1,3,613834125
+601398,Industrial and Commercial Bank of China,1,4,631151922
+601398,Industrial and Commercial Bank of China,1,5,1609495284
+601398,Industrial and Commercial Bank of China,1,6,2009385105
+601398,Industrial and Commercial Bank of China,1,7,2756095507
+601398,Industrial and Commercial Bank of China,1,8,3533641067
+601398,Industrial and Commercial Bank of China,1,9,3838362074
+601398,Industrial and Commercial Bank of China,1,10,4032178889
+601398,Industrial and Commercial Bank of China,1,11,3279446042
+601398,Industrial and Commercial Bank of China,1,12,1871798036
+601398,Industrial and Commercial Bank of China,1,13,2764829168
+601398,Industrial and Commercial Bank of China,1,14,2957137302
+601398,Industrial and Commercial Bank of China,1,15,1311959416
+601398,Industrial and Commercial Bank of China,1,16,520345379
+601398,Industrial and Commercial Bank of China,1,17,2460594146
+601398,Industrial and Commercial Bank of China,1,18,1034845826
+601398,Industrial and Commercial Bank of China,1,19,1608268125
+601398,Industrial and Commercial Bank of China,1,20,3914529534
+601398,Industrial and Commercial Bank of China,5,1,3222563496
+601398,Industrial and Commercial Bank of China,5,2,579181631
+601398,Industrial and Commercial Bank of China,5,3,1134465706
+601398,Industrial and Commercial Bank of China,5,4,1221604801
+601398,Industrial and Commercial Bank of China,5,5,1330967215
+601398,Industrial and Commercial Bank of China,5,6,2798898765
+601398,Industrial and Commercial Bank of China,5,7,3938685430
+601398,Industrial and Commercial Bank of China,5,8,1134161070
+601398,Industrial and Commercial Bank of China,5,9,3078788083
+601398,Industrial and Commercial Bank of China,5,10,1199379661
+601398,Industrial and Commercial Bank of China,5,11,740724153
+601398,Industrial and Commercial Bank of China,5,12,2787025103
+601398,Industrial and Commercial Bank of China,5,13,507932476
+601398,Industrial and Commercial Bank of China,5,14,2284158117
+601398,Industrial and Commercial Bank of China,5,15,2380377992
+601398,Industrial and Commercial Bank of China,5,16,292128239
+601398,Industrial and Commercial Bank of China,5,17,738524414
+601398,Industrial and Commercial Bank of China,5,18,3135931351
+601398,Industrial and Commercial Bank of China,5,19,3873736656
+601398,Industrial and Commercial Bank of China,5,20,631444941
+601939,China Construction Bank,1,1,47141798
+601939,China Construction Bank,1,2,672310202
+601939,China Construction Bank,1,3,879415370
+601939,China Construction Bank,1,4,1352671066
+601939,China Construction Bank,1,5,1804074194
+601939,China Construction Bank,1,6,2295205880
+601939,China Construction Bank,1,7,2832630893
+601939,China Construction Bank,1,8,3180068366
+601939,China Construction Bank,1,9,3845831643
+601939,China Construction Bank,1,10,4211409120
+601939,China Construction Bank,1,11,756820642
+601939,China Construction Bank,1,12,716853084
+601939,China Construction Bank,1,13,3559582225
+601939,China Construction Bank,1,14,99280687
+601939,China Construction Bank,1,15,1285779116
+601939,China Construction Bank,1,16,3879021834
+601939,China Construction Bank,1,17,4024856459
+601939,China Construction Bank,1,18,1814435511
+601939,China Construction Bank,1,19,1044085763
+601939,China Construction Bank,1,20,347763093
+601939,China Construction Bank,5,1,443930179
+601939,China Construction Bank,5,2,1559835552
+601939,China Construction Bank,5,3,1093849436
+601939,China Construction Bank,5,4,665629889
+601939,China Construction Bank,5,5,1242611029
+601939,China Construction Bank,5,6,1553091299
+601939,China Construction Bank,5,7,1423452539
+601939,China Construction Bank,5,8,2162529407
+601939,China Construction Bank,5,9,3295870975
+601939,China Construction Bank,5,10,82853965
+601939,China Construction Bank,5,11,1620627495
+601939,China Construction Bank,5,12,2118772426
+601939,China Construction Bank,5,13,19806299
+601939,China Construction Bank,5,14,926050275
+601939,China Construction Bank,5,15,3151809114
+601939,China Construction Bank,5,16,3209060567
+601939,China Construction Bank,5,17,2965055118
+601939,China Construction Bank,5,18,3135508508
+601939,China Construction Bank,5,19,3128984860
+601939,China Construction Bank,5,20,137651695
+601988,Bank of China,1,1,767070710
+601988,Bank of China,1,2,1600283922
+601988,Bank of China,1,3,1688941608
+601988,Bank of China,1,4,1911809108
+601988,Bank of China,1,5,1969714705
+601988,Bank of China,1,6,2370301132
+601988,Bank of China,1,7,2478540029
+601988,Bank of China,1,8,3135177524
+601988,Bank of China,1,9,3358331410
+601988,Bank of China,1,10,4007642602
+601988,Bank of China,1,11,3104032531
+601988,Bank of China,1,12,3665932204
+601988,Bank of China,1,13,3817234815
+601988,Bank of China,1,14,877325017
+601988,Bank of China,1,15,3757383453
+601988,Bank of China,1,16,2842878964
+601988,Bank of China,1,17,2844843458
+601988,Bank of China,1,18,4195501377
+601988,Bank of China,1,19,3284104926
+601988,Bank of China,1,20,2400398964
+601988,Bank of China,5,1,3584626429
+601988,Bank of China,5,2,2837705516
+601988,Bank of China,5,3,3533484800
+601988,Bank of China,5,4,2640068650
+601988,Bank of China,5,5,420542658
+601988,Bank of China,5,6,3774274592
+601988,Bank of China,5,7,3918157693
+601988,Bank of China,5,8,2966303134
+601988,Bank of China,5,9,2978252641
+601988,Bank of China,5,10,2557762239
+601988,Bank of China,5,11,652093099
+601988,Bank of China,5,12,815872409
+601988,Bank of China,5,13,1627036151
+601988,Bank of China,5,14,3041757379
+601988,Bank of China,5,15,3008972469
+601988,Bank of China,5,16,845786928
+601988,Bank of China,5,17,394232797
+601988,Bank of China,5,18,1746266120
+601988,Bank of China,5,19,337182921
+601988,Bank of China,5,20,3296069321
+601998,China CITIC Bank,1,1,125997773
+601998,China CITIC Bank,1,2,548679919
+601998,China CITIC Bank,1,3,632839962
+601998,China CITIC Bank,1,4,1397880939
+601998,China CITIC Bank,1,5,1613737378
+601998,China CITIC Bank,1,6,2276722287
+601998,China CITIC Bank,1,7,2396488505
+601998,China CITIC Bank,1,8,2536420449
+601998,China CITIC Bank,1,9,3690903251
+601998,China CITIC Bank,1,10,4073715991
+601998,China CITIC Bank,1,11,899068091
+601998,China CITIC Bank,1,12,163197449
+601998,China CITIC Bank,1,13,778399013
+601998,China CITIC Bank,1,14,2636645367
+601998,China CITIC Bank,1,15,2572422110
+601998,China CITIC Bank,1,16,3251483091
+601998,China CITIC Bank,1,17,3437517958
+601998,China CITIC Bank,1,18,3732337897
+601998,China CITIC Bank,1,19,249426285
+601998,China CITIC Bank,1,20,2401995173
+601998,China CITIC Bank,5,1,786543677
+601998,China CITIC Bank,5,2,1682367284
+601998,China CITIC Bank,5,3,2079711117
+601998,China CITIC Bank,5,4,3230492664
+601998,China CITIC Bank,5,5,3292097229
+601998,China CITIC Bank,5,6,1299581333
+601998,China CITIC Bank,5,7,1825028141
+601998,China CITIC Bank,5,8,1147838016
+601998,China CITIC Bank,5,9,3476797028
+601998,China CITIC Bank,5,10,2803458998
+601998,China CITIC Bank,5,11,444661121
+601998,China CITIC Bank,5,12,4266021258
+601998,China CITIC Bank,5,13,558182555
+601998,China CITIC Bank,5,14,597035147
+601998,China CITIC Bank,5,15,1634511580
+601998,China CITIC Bank,5,16,3614348183
+601998,China CITIC Bank,5,17,2973618441
+601998,China CITIC Bank,5,18,1062853536
+601998,China CITIC Bank,5,19,3073497834
+601998,China CITIC Bank,5,20,2267632010

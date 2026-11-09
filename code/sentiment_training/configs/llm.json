@@ -1,0 +1,126 @@
+{
+  "seed": 20,
+  "split_seed": 42,
+  "fixed": {
+    "split_seed": 42,
+    "train_count": 7000,
+    "validation_count": 2000,
+    "test_count": 1000,
+    "seed": 20,
+    "epochs": 4,
+    "batch_size": 2,
+    "gradient_accumulation": 8,
+    "learning_rate": 0.0001,
+    "scheduler": "cosine",
+    "warmup_ratio": 0.03,
+    "weight_decay": 0.0,
+    "adam_beta1": 0.9,
+    "adam_epsilon": 1e-08,
+    "max_length": 1024,
+    "precision": "bf16",
+    "gradient_clip_norm": 1.0,
+    "eval_steps": 100,
+    "save_steps": 200,
+    "checkpoint_retention": 3,
+    "total_optimizer_steps": 1752,
+    "warmup_steps": 53,
+    "lora_r": 64,
+    "lora_alpha": 128,
+    "lora_dropout": 0.05,
+    "lora_bias": "none",
+    "lora_task_type": "CAUSAL_LM",
+    "lora_targets": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj",
+      "gate_proj",
+      "up_proj",
+      "down_proj"
+    ],
+    "training_prompt_truncation": "retain rightmost 1024-minus-completion_length prompt IDs",
+    "inference_prompt_truncation": "retain rightmost 1024 prompt IDs",
+    "gradient_checkpointing_use_reentrant": false,
+    "attention_implementation": "sdpa",
+    "train_order": "random.Random(20+epoch_zero_based).shuffle",
+    "validation_and_untuned_inference_batch_size": 16,
+    "emotion_inference_batch_size": 4,
+    "emotion_inference_seed": 1002,
+    "emotion_temperature": 1.0,
+    "emotion_top_p": 1.0,
+    "emotion_top_k": 0,
+    "max_new_tokens": 8
+  },
+  "tasks": [
+    {
+      "id": "O03",
+      "model_id": "hfl/llama-3-chinese-8b-instruct-v3",
+      "revision": "91ca32fc684ce0d48ce7b29a342b16b7f9f1685c",
+      "display_name": "Llama-3-Chinese-8B-Instruct-v3-emotion",
+      "kind": "causal",
+      "regime": "lora",
+      "epochs": 4,
+      "train_args": {
+        "beta2": 0.98,
+        "init": "default",
+        "eos_weight": 1.0,
+        "label_smoothing": 0.0,
+        "template_id": "P0"
+      }
+    },
+    {
+      "id": "llama_v2_raw",
+      "model_id": "hfl/llama-3-chinese-8b-instruct-v2",
+      "revision": "ec8474a218e3597706533d8f5d6d15da3455fa2f",
+      "display_name": "Llama-3-Chinese-8B-Instruct-v2",
+      "kind": "causal",
+      "regime": "untuned",
+      "epochs": 0
+    },
+    {
+      "id": "llama_v3_raw",
+      "model_id": "hfl/llama-3-chinese-8b-instruct-v3",
+      "revision": "91ca32fc684ce0d48ce7b29a342b16b7f9f1685c",
+      "display_name": "Llama-3-Chinese-8B-Instruct-v3",
+      "kind": "causal",
+      "regime": "untuned",
+      "epochs": 0
+    },
+    {
+      "id": "llama_instruct_raw",
+      "model_id": "hfl/llama-3-chinese-8b-instruct",
+      "revision": "06bd938075968adc98bc4080bfcd65a8c2a25250",
+      "display_name": "Llama-3-Chinese-8B-Instruct",
+      "kind": "causal",
+      "regime": "untuned",
+      "epochs": 0
+    },
+    {
+      "id": "llama_chinese_base_raw",
+      "model_id": "hfl/llama-3-chinese-8b",
+      "revision": "45418dec4493e8a6826bf68e3b5996320135f57a",
+      "display_name": "Llama-3-Chinese-8B",
+      "kind": "causal",
+      "regime": "untuned",
+      "epochs": 0
+    },
+    {
+      "id": "meta_llama_instruct_raw",
+      "model_id": "meta-llama/Meta-Llama-3-8B-Instruct",
+      "revision": "5f0b02c75b57c5855da9ae460ce51323ea669d8a",
+      "display_name": "Llama-3-8B-Instruct",
+      "kind": "causal",
+      "regime": "untuned",
+      "epochs": 0
+    },
+    {
+      "id": "meta_llama_base_raw",
+      "model_id": "meta-llama/Meta-Llama-3-8B",
+      "revision": "8cde5ca8380496c9a6cc7ef3a8b46a0372a1d920",
+      "display_name": "Llama-3-8B",
+      "kind": "causal",
+      "regime": "untuned",
+      "epochs": 0
+    }
+  ]
+}

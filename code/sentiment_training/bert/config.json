@@ -1,0 +1,55 @@
+{
+  "models": [
+    {
+      "model_key": "roberta_rbtl3",
+      "model_id": "hfl/rbtl3",
+      "revision": "9cad8535fa548d05b09d43bb95eef67845981908",
+      "display_name": "ROBERTa"
+    },
+    {
+      "model_key": "roberta_large",
+      "model_id": "hfl/chinese-roberta-wwm-ext-large",
+      "revision": "a25cc9e05974bd9687e528edd516f2cfdb3f5db9",
+      "display_name": "Chinese-ROBERTa-wwm-ext-large"
+    },
+    {
+      "model_key": "roberta_base",
+      "model_id": "hfl/chinese-roberta-wwm-ext",
+      "revision": "5c58d0b8ec1d9014354d691c538661bf00bfdb44",
+      "display_name": "Chinese-ROBERTa-wwm-ext"
+    },
+    {
+      "model_key": "bert_wwm_ext",
+      "model_id": "hfl/chinese-bert-wwm-ext",
+      "revision": "2a995a880017c60e4683869e817130d8af548486",
+      "display_name": "Chinese-BERT-wwm-ext"
+    },
+    {
+      "model_key": "bert_wwm",
+      "model_id": "hfl/chinese-bert-wwm",
+      "revision": "ab0aa81da273504efc8540aa4d0bbaa3016a1bb5",
+      "display_name": "Chinese-BERT-wwm"
+    }
+  ],
+  "training": {
+    "split_seed": 42,
+    "precision": "bf16",
+    "eval_batch": 32,
+    "padding": "dynamic",
+    "selection_metric": "accuracy",
+    "input_mode": "bank_title",
+    "optimizer": "adamw_torch",
+    "scheduler": "linear",
+    "config_id": "C13",
+    "lr": 1e-05,
+    "unfreeze_last_n": 1,
+    "effective_batch": 32,
+    "train_batch": 8,
+    "grad_accum": 4,
+    "warmup_ratio": 0,
+    "weight_decay": 0.1,
+    "max_length": 256,
+    "epochs": 4,
+    "seed": 123
+  }
+}
